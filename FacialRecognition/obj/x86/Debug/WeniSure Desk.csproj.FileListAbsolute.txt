@@ -1,0 +1,32 @@
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.pdb
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.xml
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\bin\Debug\Emgu.Util.xml
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\WeniSure Desk.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.ModEnroll.resources
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.ModLogin.resources
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Properties.Resources.resources
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.ModDetect.resources
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.ModMenu.resources
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\WeniSure Desk.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\WeniSure Desk.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\WeniSure Desk.csproj.CopyComplete
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe
+C:\Users\admin\Desktop\FacialRecognition\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.pdb
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\bin\Debug\FacialRecognition.exe
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\bin\Debug\FacialRecognition.pdb
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\bin\Debug\Emgu.CV.xml
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\bin\Debug\Emgu.Util.xml
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\WeniSure Desk.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\FacialRecognition.ModEnroll.resources
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\FacialRecognition.ModLogin.resources
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\FacialRecognition.Properties.Resources.resources
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\FacialRecognition.ModDetect.resources
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\FacialRecognition.ModMenu.resources
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\WeniSure Desk.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\WeniSure Desk.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\WeniSure Desk.csproj.CopyComplete
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\FacialRecognition.exe
+C:\Users\admin\Desktop\FacialRecognition\Wenisure Desktop\FacialRecognition\obj\x86\Debug\FacialRecognition.pdb
